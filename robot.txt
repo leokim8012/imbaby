@@ -1,4 +1,0 @@
-
- User-agent: *
- Allow: /baby/
- Sitemap: https://william8012.github.io/imbaby/sitemap.xml
